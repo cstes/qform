@@ -6,5 +6,8 @@
   id matrix;
 }
 
++ new;
+- printOn:(IOD)aFile;
+
 @end
 
