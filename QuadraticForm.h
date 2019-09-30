@@ -7,6 +7,8 @@
 }
 
 + new;
+
+- determinant;
 - printOn:(IOD)aFile;
 
 @end

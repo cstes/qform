@@ -20,6 +20,11 @@ id cltnOfScalars;
   return self;
 }
 
+- determinant
+{
+  return [matrix determinant];
+}
+
 - printOn:(IOD)aFile
 {
   [matrix printOn:aFile];
