@@ -7,6 +7,9 @@
 }
 
 + new;
++ diagonal:clntOfScalars;
+
+- evaluateAll:clntOfScalars;
 
 - determinant;
 - printOn:(IOD)aFile;
